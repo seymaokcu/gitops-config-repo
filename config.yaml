@@ -1,0 +1,8 @@
+app:
+  name: "odeme-servisi"
+  version: "1.0.0"
+  port: 8080
+  replicas: 2
+features:
+  maintenance_mode: false
+  log_level: "INFO"
